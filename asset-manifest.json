@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/minecraft-clone/static/css/main.61fd6d84.chunk.css",
+    "main.js": "/minecraft-clone/static/js/main.49be65c0.chunk.js",
+    "main.js.map": "/minecraft-clone/static/js/main.49be65c0.chunk.js.map",
+    "runtime-main.js": "/minecraft-clone/static/js/runtime-main.2dcf8f5c.js",
+    "runtime-main.js.map": "/minecraft-clone/static/js/runtime-main.2dcf8f5c.js.map",
+    "static/js/2.a2caaa12.chunk.js": "/minecraft-clone/static/js/2.a2caaa12.chunk.js",
+    "static/js/2.a2caaa12.chunk.js.map": "/minecraft-clone/static/js/2.a2caaa12.chunk.js.map",
+    "index.html": "/minecraft-clone/index.html",
+    "static/css/main.61fd6d84.chunk.css.map": "/minecraft-clone/static/css/main.61fd6d84.chunk.css.map",
+    "static/js/2.a2caaa12.chunk.js.LICENSE.txt": "/minecraft-clone/static/js/2.a2caaa12.chunk.js.LICENSE.txt",
+    "static/media/dirt.59ed3279.jpg": "/minecraft-clone/static/media/dirt.59ed3279.jpg",
+    "static/media/github.f1102180.png": "/minecraft-clone/static/media/github.f1102180.png",
+    "static/media/glass.4b881df7.jpg": "/minecraft-clone/static/media/glass.4b881df7.jpg",
+    "static/media/grass.eb5fc8eb.jpg": "/minecraft-clone/static/media/grass.eb5fc8eb.jpg",
+    "static/media/linkedin.032cf8a6.png": "/minecraft-clone/static/media/linkedin.032cf8a6.png",
+    "static/media/wood.f0c57697.png": "/minecraft-clone/static/media/wood.f0c57697.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2dcf8f5c.js",
+    "static/js/2.a2caaa12.chunk.js",
+    "static/css/main.61fd6d84.chunk.css",
+    "static/js/main.49be65c0.chunk.js"
+  ]
+}
