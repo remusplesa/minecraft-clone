@@ -79,7 +79,7 @@ const Homepage = () => {
         >
           <img src={linkedin} alt="to linkedin" className="w-12 h-12" />
         </a>
-        <a href="https://github.com/remusplesa/" className="mx-2">
+        <a href="https://github.com/remusplesa/minecraft-clone" className="mx-2">
           <img src={github} alt="to github" className="w-12 h-12" />
         </a>
       </footer>

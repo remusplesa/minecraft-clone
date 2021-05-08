@@ -1,6 +1,6 @@
 {
   "homepage": "https://remusplesa.github.io/minecraft-clone/",
-  "name": "minecraft-react-clone",
+  "name": "minecraft-clone",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
